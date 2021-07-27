@@ -1,0 +1,9 @@
+{
+    "autoload": {
+        "files":[
+            "app/functions/custom.php",
+            "app/functions/pages.php",
+            "app/functions/validate.php"
+        ]
+    }
+}
